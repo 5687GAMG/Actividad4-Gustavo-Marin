@@ -1,0 +1,41 @@
+text,label,Predicción BART MNLI,Predicción DeBERTa Zero-Shot,Predicción DistilBERT MNLI
+The product label is missing the allergen declaration for milk.,risk,risk,risk,no_risk
+Nutrition facts are complete and aligned with the destination market requirements.,no_risk,no_risk,no_risk,no_risk
+The ingredient list includes a restricted additive for the target country.,risk,risk,no_risk,risk
+The label includes the required language translation for the destination market.,no_risk,risk,no_risk,risk
+Country of origin is not declared on the commercial label.,risk,risk,no_risk,no_risk
+The batch code and expiration date are clearly visible on the packaging.,no_risk,risk,no_risk,risk
+The claim 'sugar free' is not supported by the nutritional values.,risk,risk,no_risk,risk
+All mandatory storage instructions are included on the label.,no_risk,risk,no_risk,no_risk
+The product uses an unapproved health claim for the export market.,risk,risk,risk,risk
+The net weight is declared using the required unit of measurement.,no_risk,no_risk,no_risk,risk
+The label does not include the importer information required by regulation.,risk,risk,no_risk,risk
+The ingredient order follows the required descending weight format.,no_risk,risk,no_risk,no_risk
+The product description conflicts with the declared ingredient composition.,risk,risk,no_risk,risk
+The allergen statement is consistent with the ingredient list.,no_risk,risk,no_risk,no_risk
+The label includes a prohibited therapeutic statement.,risk,risk,no_risk,no_risk
+The barcode and product identification are readable and complete.,no_risk,no_risk,no_risk,no_risk
+The nutritional table is missing mandatory sodium information.,risk,risk,no_risk,no_risk
+The regulatory review confirms that the label meets export requirements.,no_risk,risk,no_risk,risk
+The packaging contains a claim that may mislead consumers.,risk,risk,risk,risk
+The product name and legal denomination are correctly displayed.,no_risk,no_risk,no_risk,no_risk
+The label is missing a required warning statement for the product category.,risk,risk,risk,no_risk
+The label format follows the approved corporate and regulatory template.,no_risk,risk,no_risk,risk
+The declared shelf life does not match the approved product specification.,risk,risk,risk,no_risk
+All required manufacturer information is present and accurate.,no_risk,no_risk,no_risk,no_risk
+The translation of the allergen warning is incomplete.,risk,risk,risk,risk
+The label includes complete preparation instructions where required.,no_risk,risk,no_risk,no_risk
+The product contains an ingredient that requires additional regulatory approval.,risk,risk,no_risk,risk
+The label was previously approved for the same market and formulation.,no_risk,risk,no_risk,no_risk
+The export label does not comply with local language requirements.,risk,risk,no_risk,risk
+The product category and tariff description are consistent across documents.,no_risk,risk,no_risk,no_risk
+The label omits mandatory nutritional values for the target region.,risk,risk,no_risk,no_risk
+The final artwork was validated by the regulatory team.,no_risk,risk,no_risk,risk
+The label includes an unverified organic certification logo.,risk,risk,risk,no_risk
+The list of ingredients matches the approved formulation record.,no_risk,no_risk,no_risk,risk
+The warning icons required by the destination country are absent.,risk,no_risk,risk,risk
+The packaging information is aligned with the approved product specification.,no_risk,no_risk,no_risk,no_risk
+The product label uses a prohibited color additive declaration.,risk,risk,no_risk,no_risk
+The serving size is correctly declared according to the target market format.,no_risk,risk,no_risk,no_risk
+The label contains inconsistent information between English and Spanish versions.,risk,risk,no_risk,risk
+The compliance checklist was completed without observations.,no_risk,no_risk,no_risk,no_risk
